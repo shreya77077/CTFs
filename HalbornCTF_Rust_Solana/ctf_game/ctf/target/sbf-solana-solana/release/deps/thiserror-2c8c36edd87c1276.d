@@ -1,0 +1,10 @@
+/Users/shreyagupta/CTFs/HalbornCTF_Rust_Solana/ctf_game/ctf/target/sbf-solana-solana/release/deps/libthiserror-2c8c36edd87c1276.rmeta: /Users/shreyagupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /Users/shreyagupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /Users/shreyagupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /Users/shreyagupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/Users/shreyagupta/CTFs/HalbornCTF_Rust_Solana/ctf_game/ctf/target/sbf-solana-solana/release/deps/libthiserror-2c8c36edd87c1276.rlib: /Users/shreyagupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /Users/shreyagupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /Users/shreyagupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /Users/shreyagupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/Users/shreyagupta/CTFs/HalbornCTF_Rust_Solana/ctf_game/ctf/target/sbf-solana-solana/release/deps/thiserror-2c8c36edd87c1276.d: /Users/shreyagupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /Users/shreyagupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /Users/shreyagupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /Users/shreyagupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/Users/shreyagupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs:
+/Users/shreyagupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs:
+/Users/shreyagupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs:
+/Users/shreyagupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs:
